@@ -1,4 +1,4 @@
-# FreshXpress Grocery Shopping Website
+# FreshXpress Grocery Shopping Website ** THIS IS A SCHOOL PROJECT AND COMPANY NAME WAS FAKE **
 
 FreshXpress is a Instacart like online grocery shopping platform that allows vendors to sell groceries online and provide delivery or pick up services to the customers. Vendors can register for a new account, sign-in to their portal, upload product info , manage their products and manage orders, change account details and so on. Customers can choose to shop from which vendor, register for a new account, sign-in, manage past orders, manage account details, shop for groceries and so on.
 
